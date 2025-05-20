@@ -10,8 +10,8 @@ I’m a certified **AWS Solutions Architect – Associate** with a passion for d
 ---
 
 ## 🎓 Certifications  
-[![AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/abf270f7-198b-4554-a542-cef4490312ca/public_url)]  
-[![AWS Certified Cloud Practitioner]([https://www.credly.com/badges/8e9ed054-804a-4070-a6d8-6356ab140e9d/public_url)]
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/abf270f7-198b-4554-a542-cef4490312ca/public_url)  
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/8e9ed054-804a-4070-a6d8-6356ab140e9d/public_url)
 ---
 
 ## 🌱 What I'm Doing  
