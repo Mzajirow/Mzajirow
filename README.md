@@ -1,29 +1,42 @@
-# Hi there, I'm Ejiroghene Okpirikhre! 👋  
+# 👋 Hi there, I'm Ejiroghene Okpirikhre!
 
-Welcome to my GitHub profile!  
+Welcome to my GitHub profile!
+
+---
 
 ## 🚀 About Me  
-I am an **emerging Solutions Architect** with a passion for designing scalable and efficient systems. Currently, I’m diving deep into the world of **Cloud Computing**, building the skills needed to craft impactful solutions.  
+I’m a certified **AWS Solutions Architect – Associate** with a passion for designing scalable, secure, and cost-effective cloud architectures. I thrive on solving real-world problems with innovative solutions and continuously expanding my knowledge in cloud technologies.
+
+---
 
 ## 🎓 Certifications  
-- **AWS Certified Cloud Practitioner**  
+[![AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/abf270f7-198b-4554-a542-cef4490312ca/public_url)]  
+[![AWS Certified Cloud Practitioner]([https://www.credly.com/badges/8e9ed054-804a-4070-a6d8-6356ab140e9d/public_url)]
+---
 
 ## 🌱 What I'm Doing  
-- 🌐 Learning and exploring cloud concepts and architectures  
-- 🛠️ Building my expertise by working on labs and real-life projects  
-- 📚 Expanding my knowledge in AWS services and cloud-native technologies  
+- 🌐 Designing cloud-native architectures using AWS services  
+- 🧪 Building hands-on projects and completing advanced labs  
+- 📚 Exploring serverless computing, containerization, and automation tools  
+
+---
 
 ## 🛠️ Tools and Technologies  
-- **Cloud Platforms**: AWS  
-- **Programming**: Python, Bash (learning in progress)
+- **Cloud Platforms:** AWS  
+- **Languages:** Python, Bash (learning in progress)  
+- **Tools:** Git, GitHub, VS Code, AWS CLI, CloudFormation  
 
-## 💡 My Goals  
-- Attain advanced AWS certifications like the **AWS Solutions Architect Associate**  
-- Work on real-world projects that solve complex problems  
-- Continuously learn and contribute to the tech community  
+---
+
+## 💡 Goals  
+- Deepen my knowledge of AWS architecture best practices  
+- Earn the **AWS DevOps Engineer** or **Professional Architect** certification  
+- Build and share impactful cloud solutions with the tech community  
+
+---
 
 ## 📫 Get in Touch  
-- [LinkedIn](https://www.linkedin.com/in/okpirikhre-ejiro/)  
-- Email: alexejirow@gmail.com 
+- 📍 [LinkedIn](https://www.linkedin.com/in/okpirikhre-ejiro/)  
+- 📧 Email: alexejirow@gmail.com  
 
-Thanks for stopping by! Feel free to explore my repositories and connect with me. Let's build something great together! 🌟  
+Thanks for stopping by! Feel free to explore my repositories and connect. Let’s build something amazing together! 🌟
